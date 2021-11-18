@@ -9,3 +9,24 @@
   <img src="https://github.com/PedroCastilhos/landingPage/blob/main/printScreens/screeShot2.png?raw=true" alt="second printscreen">
   <img src="https://github.com/PedroCastilhos/landingPage/blob/main/printScreens/screeShot3.png?raw=true" alt="third printscreen">
 </p>
+
+## 💻 Project
+
+This project is a landing page training, to improve my HTML and CSS.
+
+## ✨ Technologies
+
+This project was developed with the technologies above:
+
+- [HTML 5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+## 🚀 How to execute
+
+- Clone the repository
+- Execute the file 'index.html'
+- Or click on this [link](https://pedrocastilhos.github.io/landingPage/)
+
+
+
