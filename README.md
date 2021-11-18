@@ -7,6 +7,8 @@
   <h2 align="center">Page responsive</h2>
   <p align="center">
   <img src="https://github.com/PedroCastilhos/landingPage/blob/main/printScreens/screeShot2.png?raw=true" alt="second printscreen">
+  </p>
+  <p align="center">
   <img src="https://github.com/PedroCastilhos/landingPage/blob/main/printScreens/screeShot3.png?raw=true" alt="third printscreen">
 </p>
 
